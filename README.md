@@ -11,5 +11,5 @@ This application is developed using C# in which reads lightning strikes from inp
 
 ### Dependencies
 
-Newtonsoft.Json by James Newton-King
-.Net Framework 4.5.2
+* Newtonsoft.Json by James Newton-King
+* .Net Framework 4.5.2
