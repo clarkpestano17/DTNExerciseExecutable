@@ -18,3 +18,7 @@ It also logs the following:
 
 * Newtonsoft.Json by James Newton-King
 * .Net Framework 4.5.2
+
+### Executing program
+
+* Run the program by double clicking the DTNExercise.exe
